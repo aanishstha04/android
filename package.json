@@ -1,0 +1,13 @@
+{
+  "name": "android_api_single-",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14"
+  },
+  "devDependencies": {
+    "bcrypt": "^5.0.0",
+    "express-validator": "^6.9.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
